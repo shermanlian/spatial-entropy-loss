@@ -1,4 +1,4 @@
-## Entropy-SDE <br><sub>Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement, CVPRW 2024.</sub>
+## Entropy-SDE | [paper](https://arxiv.org/abs/2404.09735) <br><sub>Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement, CVPRW 2024.</sub>
 
 
 #### Image reconstruction based on statistical matching 
