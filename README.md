@@ -1,4 +1,4 @@
-## Entropy-SDE | [paper](https://arxiv.org/abs/2404.09735) <br><sub>Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement, CVPRW 2024.</sub>
+## Entropy-SDE | [Paper](https://arxiv.org/abs/2404.09735) <br><sub>Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement, CVPRW 2024.</sub>
 
 
 #### Image reconstruction based on statistical matching 
@@ -41,6 +41,18 @@ python test.py -opt=options/test/refusion.yml
 #### Pretrained models
 We also provide the **pretrained models** for the [challenge](https://drive.google.com/file/d/1dtC1BW2o2WlGWmvvfg18KZVyudaCbtkh/view?usp=sharing), [LOLv1](https://drive.google.com/file/d/1Q3xPy8L7G7YajEl2iHuFmYHV9fxtxGMy/view?usp=sharing), and [LOLv2-real](https://drive.google.com/file/d/1UQ_CbDSqkc4i-Ho4_fbtOMPQhPmI41nk/view?usp=sharing).
 
+#### Citations
+If our code helps your research or work, please consider citing our paper.
+The following are BibTeX references:
+
+```
+@article{lian2024equipping,
+  title={Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement},
+  author={Lian, Wenyi and Lian, Wenjing and Luo, Ziwei},
+  journal={arXiv preprint arXiv:2404.09735},
+  year={2024}
+}
+```
 
 
 
