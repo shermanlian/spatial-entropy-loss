@@ -25,7 +25,8 @@ python train.py -opt=options/train/entropy-refusion.yml
 ```
 
 #### Differentiable Spatial Entropy
-Key code for the differentiable spatial entropy is the [kde_utils.py](https://github.com/shermanlian/spatial-entropy-loss/codes/config/low-light/models/modules/kde_utils.py).
+Key code for the differentiable spatial entropy is the [kde_utils.py](https://github.com/shermanlian/spatial-entropy-loss/blob/main/codes/config/low-light/models/modules/kde_utils.py).
+
 
 ### Testing
 Change the dataset and the pretrained model path in the option file.
